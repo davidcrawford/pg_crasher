@@ -1,0 +1,5 @@
+# mongo_fdw extension
+comment = 'Provides crash function to cause malloc issue in postgres on demand.  For testing error handling.'
+default_version = '1.0'
+module_pathname = '$libdir/pg_crasher'
+relocatable = true

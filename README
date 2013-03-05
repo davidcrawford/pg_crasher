@@ -1,0 +1,1 @@
+This PostgreSQL extension provides a function that crashes the PostgreSQL backend.  Use it to test error handling in clients.
